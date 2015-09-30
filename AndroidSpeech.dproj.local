@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/09/30 15:03:19.711,=C:\Users\tony\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/30 15:04:28.626,F:\XE10\AndroidSpeech\uMain.pas=C:\Users\tony\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/30 15:04:28.626,F:\XE10\AndroidSpeech\uMain.fmx=C:\Users\tony\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2015/09/30 15:04:36.701,F:\XE10\AndroidSpeech\AndroidSpeech.dproj=C:\Users\tony\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/09/30 15:40:32.129,=F:\XE10\AndroidSpeech\Androidapi.JNI.Speech.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile Android="0a17af95"/>
+    <PTony-MBP iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
